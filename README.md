@@ -54,4 +54,4 @@ python kneedle_app.py
 
 If you use this software in your research, please cite the original mathematical formulation of the Kneedle algorithm:
 
-> Ville Satopää, Jeannie Albrecht, David Irwin, and Barath Raghavan. "Finding a 'Kneedle' in a Haystack: Detecting Knee Points in System Behavior." 2011. DOI: https://ieeexplore.ieee.org/document/5961514
+> Ville Satopää, Jeannie Albrecht, David Irwin, and Barath Raghavan. "Finding a 'Kneedle' in a Haystack: Detecting Knee Points in System Behavior." 2011. DOI: https://doi.org/10.1109/ICDCSW.2011.20
